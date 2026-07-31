@@ -1,13 +1,15 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:2563EB&height=170&section=header" alt="Cabeçalho" />
+
 <div align="center">
 
 # Kawã Lucio
 
-### Desenvolvedor Web
+### Desenvolvedor Full Stack & Mobile
 
-Transformo ideias em aplicações web funcionais, acessíveis e bem estruturadas.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&lines=PHP+%7C+JavaScript+%7C+React+Native+%7C+Expo;Sistemas+web+%7C+APIs+%7C+Integra%C3%A7%C3%B5es;Transformando+problemas+reais+em+solu%C3%A7%C3%B5es)
 
-[![GitHub](https://img.shields.io/badge/GitHub-KwL--21-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KwL-21)
-![Disponível para aprender](https://img.shields.io/badge/Sempre-aprendendo-6E40C9?style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-KwL--21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KwL-21)
+![Seguidores](https://img.shields.io/github/followers/KwL-21?style=for-the-badge&color=2563EB&labelColor=0D1117&logo=github)
 
 </div>
 
@@ -15,55 +17,98 @@ Transformo ideias em aplicações web funcionais, acessíveis e bem estruturadas
 
 ## Sobre mim
 
-Sou desenvolvedor web em constante evolução, com interesse em criar interfaces claras e soluções digitais úteis. Uso cada projeto como oportunidade para aprofundar conhecimentos, melhorar a qualidade do código e aprender novas tecnologias.
+```javascript
+const kawa = {
+  role: "Desenvolvedor Full Stack & Mobile",
+  location: "Rio de Janeiro, Brasil",
 
-- 💻 Desenvolvimento de aplicações e interfaces para a web
-- 🧩 Interesse em resolver problemas com soluções simples e funcionais
-- 🚀 Aprendizado contínuo por meio de projetos práticos
-- 🤝 Aberto a colaboração, troca de conhecimento e novos desafios
+  backend: ["PHP", "APIs REST", "Integrações"],
+  frontend: ["JavaScript", "HTML", "CSS", "Bootstrap"],
+  mobile: ["React Native", "Expo"],
+  databases: ["MySQL", "SQL"],
+  tools: ["Git", "GitHub", "Composer", "Docker"],
 
-## Tecnologias e ferramentas
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-## Projetos em destaque
-
-| Projeto | Sobre |
-|:---|:---|
-| [**Parnaioca**](https://github.com/KwL-21/Parnaioca) | Projeto web desenvolvido para praticar a construção e organização de uma aplicação completa. |
-| [**Pousada**](https://github.com/KwL-21/Pousada) | Experiência de desenvolvimento voltada à apresentação de uma pousada na web. |
-| [**Desafio**](https://github.com/KwL-21/desafio) | Resolução de desafios e aplicação prática de conhecimentos de programação. |
-| [**Thucas**](https://github.com/KwL-21/Thucas) | Projeto experimental criado durante minha evolução no desenvolvimento web. |
-
-## Em evolução
-
-```text
-Desenvolvimento web  ███████████████████░  Construindo
-Boas práticas        ████████████████░░░░  Aprimorando
-Novas tecnologias    ██████████████░░░░░░  Explorando
+  mindset: "Aprender, construir e evoluir continuamente"
+};
 ```
 
-> Minhas contribuições públicas e privadas são contabilizadas no calendário nativo do GitHub, sem expor informações de repositórios privados ou organizacionais.
-
-## Vamos conversar
-
-Se você quiser trocar ideias, colaborar em um projeto ou acompanhar minha evolução, entre em contato pelo meu perfil:
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/Ver_meu_perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KwL-21)
+Desenvolvo soluções web e mobile voltadas a necessidades reais, passando pela interface, regras de negócio, bancos de dados e integrações com serviços externos. Tenho experiência com manutenção e evolução de sistemas, automação de processos e geração de documentos e relatórios.
 
 ---
 
-_A melhor forma de aprender é construir._
+## Tech Stack
+
+<div align="center">
+
+### Principais tecnologias
+
+<img src="https://skillicons.dev/icons?i=php,js,react,html,css,bootstrap,mysql&theme=dark" alt="PHP, JavaScript, React, HTML, CSS, Bootstrap e MySQL" />
+
+### Ferramentas e ambiente
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" alt="Git, GitHub, Docker, VS Code e Postman" />
+
+<br/><br/>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </div>
+
+---
+
+## Experiência prática
+
+| Área | Tecnologias e atividades |
+|:---|:---|
+| **Aplicações web** | PHP, JavaScript, HTML, CSS, Bootstrap e organização de regras de negócio |
+| **Aplicações mobile** | React Native, Expo, navegação, armazenamento local e notificações |
+| **Dados e relatórios** | MySQL/SQL, planilhas, gráficos, geração e leitura de PDFs |
+| **Integrações** | APIs REST, Firebase, LDAP, e-mail e serviços corporativos |
+| **Automação** | QR codes, códigos de barras, rotinas agendadas e processamento de arquivos |
+| **Ambiente e versionamento** | Composer, Docker, Git, GitHub e Laragon |
+
+---
+
+## Projetos em destaque
+
+### Projetos públicos
+
+| Projeto | Descrição | Stack |
+|:---|:---|:---|
+| [**Pousada Parnaioca**](https://github.com/KwL-21/Parnaioca) | Sistema web para apoiar processos de hotelaria e gerenciamento da pousada. | PHP, JavaScript, Bootstrap, SQL |
+| [**Pousada**](https://github.com/KwL-21/Pousada) | Projeto web desenvolvido para apresentar e aplicar fundamentos de desenvolvimento. | HTML, CSS, JavaScript |
+| [**Desafio**](https://github.com/KwL-21/desafio) | Projeto de estudo com aplicação prática de lógica e desenvolvimento web. | Desenvolvimento web |
+| [**Thucas**](https://github.com/KwL-21/Thucas) | Projeto experimental criado durante minha evolução como desenvolvedor. | HTML, CSS, JavaScript |
+
+### Projetos privados e organizacionais
+
+Também atuo em sistemas corporativos, integrações, automações, relatórios e aplicações mobile. Por confidencialidade, detalhes dos repositórios privados não são expostos; as contribuições são contabilizadas anonimamente pelo calendário nativo do GitHub.
+
+---
+
+## Atualmente
+
+- 🔭 Evoluindo sistemas web e integrações corporativas
+- 📱 Desenvolvendo experiências mobile com React Native e Expo
+- 🧩 Aprimorando arquitetura, organização de código e APIs
+- 🚀 Transformando processos manuais em soluções digitais
+
+---
+
+<div align="center">
+
+### Vamos construir algo juntos?
+
+[![GitHub](https://img.shields.io/badge/Conheça_meus_projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KwL-21?tab=repositories)
+
+<br/><br/>
+
+**“Transformando problemas reais em soluções que funcionam.”**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:0D1117&height=130&section=footer" alt="Rodapé" />
