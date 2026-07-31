@@ -90,6 +90,26 @@ Também atuo em sistemas corporativos, integrações, automações, relatórios 
 
 ---
 
+## GitHub Analytics
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KwL-21&theme=transparent" alt="Histórico anual de contribuições de Kawã" />
+
+<br/>
+
+<img width="55%" src="https://github-stats-extended.vercel.app/api?username=KwL-21&show_icons=true&theme=transparent&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&locale=pt-br" alt="Commits, pull requests, issues, reviews e contribuições de Kawã" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=KwL-21&theme=transparent&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Kawã" />
+
+</div>
+
+> Os cartões apresentam dados públicos disponíveis pela API do GitHub. Contribuições privadas e organizacionais são exibidas anonimamente no calendário nativo do perfil quando a opção **Private contributions** está ativada.
+
+---
+
 ## Atualmente
 
 - 🔭 Evoluindo sistemas web e integrações corporativas
