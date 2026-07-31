@@ -20,15 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >-
-            username=KwL-21
-            &show_icons=true
-            &include_all_commits=true
-            &count_private=true
-            &show=reviews,prs_merged,prs_merged_percentage
-            &theme=transparent
-            &hide_border=true
-            &locale=pt-br
+          options: username=KwL-21&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&locale=pt-br
           path: profile/stats.svg
           token: ${{ secrets.STATS_PAT }}
           fail_on_error: true
@@ -37,13 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: >-
-            username=KwL-21
-            &layout=compact
-            &langs_count=8
-            &theme=transparent
-            &hide_border=true
-            &locale=pt-br
+          options: username=KwL-21&layout=compact&langs_count=8&theme=transparent&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_PAT }}
           fail_on_error: true
