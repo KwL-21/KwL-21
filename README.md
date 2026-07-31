@@ -98,15 +98,15 @@ Também atuo em sistemas corporativos, integrações, automações, relatórios 
 
 <br/>
 
-<img width="55%" src="https://github-stats-extended.vercel.app/api?username=KwL-21&show_icons=true&theme=transparent&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&locale=pt-br" alt="Commits, pull requests, issues, reviews e contribuições de Kawã" />
+<img width="55%" src="./profile/stats.svg" alt="Commits, pull requests, issues e reviews de Kawã" />
 
-<br/>
+<img width="40%" src="./profile/top-langs.svg" alt="Tecnologias mais utilizadas por Kawã" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=KwL-21&theme=transparent&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Kawã" />
 
 </div>
 
-> Os cartões apresentam dados públicos disponíveis pela API do GitHub. Contribuições privadas e organizacionais são exibidas anonimamente no calendário nativo do perfil quando a opção **Private contributions** está ativada.
+> Os cartões de estatísticas e tecnologias são gerados diariamente pelo GitHub Actions e armazenados neste repositório. Contribuições privadas e organizacionais são contabilizadas conforme as permissões concedidas ao token, sem expor o conteúdo dos repositórios.
 
 ---
 
