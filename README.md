@@ -1,13 +1,13 @@
 <div align="center">
 
-# Olá, eu sou o Kawã 👋
+# Kawã Lucio
 
-### Desenvolvedor em evolução, transformando ideias em experiências para a web.
+### Desenvolvedor Web
 
-Construindo projetos com foco em interfaces, aplicações web e aprendizado contínuo.
+Transformo ideias em aplicações web funcionais, acessíveis e bem estruturadas.
 
-[![Perfil](https://img.shields.io/badge/GitHub-KwL--21-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KwL-21)
-![Visitantes](https://komarev.com/ghpvc/?username=KwL-21&style=for-the-badge&color=6e40c9&label=VISITAS)
+[![GitHub](https://img.shields.io/badge/GitHub-KwL--21-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KwL-21)
+![Disponível para aprender](https://img.shields.io/badge/Sempre-aprendendo-6E40C9?style=flat-square)
 
 </div>
 
@@ -15,43 +15,54 @@ Construindo projetos com foco em interfaces, aplicações web e aprendizado cont
 
 ## Sobre mim
 
-- 💻 Explorando desenvolvimento web e novas tecnologias
-- 🧩 Gosto de transformar desafios em projetos práticos
-- 🚀 Em constante evolução, um commit de cada vez
-- 🎯 Atualmente aprimorando minhas habilidades em front-end e back-end
+Sou desenvolvedor web em constante evolução, com interesse em criar interfaces claras e soluções digitais úteis. Uso cada projeto como oportunidade para aprofundar conhecimentos, melhorar a qualidade do código e aprender novas tecnologias.
 
-## Tecnologias
+- 💻 Desenvolvimento de aplicações e interfaces para a web
+- 🧩 Interesse em resolver problemas com soluções simples e funcionais
+- 🚀 Aprendizado contínuo por meio de projetos práticos
+- 🤝 Aberto a colaboração, troca de conhecimento e novos desafios
+
+## Tecnologias e ferramentas
 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-## Estatísticas
+## Projetos em destaque
 
+| Projeto | Sobre |
+|:---|:---|
+| [**Parnaioca**](https://github.com/KwL-21/Parnaioca) | Projeto web desenvolvido para praticar a construção e organização de uma aplicação completa. |
+| [**Pousada**](https://github.com/KwL-21/Pousada) | Experiência de desenvolvimento voltada à apresentação de uma pousada na web. |
+| [**Desafio**](https://github.com/KwL-21/desafio) | Resolução de desafios e aplicação prática de conhecimentos de programação. |
+| [**Thucas**](https://github.com/KwL-21/Thucas) | Projeto experimental criado durante minha evolução no desenvolvimento web. |
+
+## Em evolução
+
+```text
+Desenvolvimento web  ███████████████████░  Construindo
+Boas práticas        ████████████████░░░░  Aprimorando
+Novas tecnologias    ██████████████░░░░░░  Explorando
+```
+
+> Minhas contribuições públicas e privadas são contabilizadas no calendário nativo do GitHub, sem expor informações de repositórios privados ou organizacionais.
+
+## Vamos conversar
+
+Se você quiser trocar ideias, colaborar em um projeto ou acompanhar minha evolução, entre em contato pelo meu perfil:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KwL-21&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Kawã" />
-</div>
 
-
-## Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KwL-21&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade de Kawã" />
-</div>
+[![GitHub](https://img.shields.io/badge/Ver_meu_perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KwL-21)
 
 ---
-
-<div align="center">
-
-### Obrigado pela visita!
 
 _A melhor forma de aprender é construir._
 
