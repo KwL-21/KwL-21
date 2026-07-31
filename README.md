@@ -35,26 +35,11 @@ Construindo projetos com foco em interfaces, aplicações web e aprendizado cont
 
 ## Estatísticas
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KwL-21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Kawã" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwL-21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Kawã" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KwL-21&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Kawã" />
 </div>
 
-## Projetos em destaque
-
-<div align="center">
-  <a href="https://github.com/KwL-21/Parnaioca"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KwL-21&repo=Parnaioca&theme=tokyonight&hide_border=true" alt="Repositório Parnaioca" /></a>
-  <a href="https://github.com/KwL-21/Pousada"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KwL-21&repo=Pousada&theme=tokyonight&hide_border=true" alt="Repositório Pousada" /></a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/KwL-21/desafio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KwL-21&repo=desafio&theme=tokyonight&hide_border=true" alt="Repositório desafio" /></a>
-  <a href="https://github.com/KwL-21/Thucas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KwL-21&repo=Thucas&theme=tokyonight&hide_border=true" alt="Repositório Thucas" /></a>
-</div>
 
 ## Atividade
 
