@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Kaw&#227; Lucio, Rank: B</title>
-        <desc id="descId">Total de estrelas: 0, Total de Commits  : 529, Total de PRs: 205, Total de PRs Integrados: 195, Porcentagem de PRs Integrados: 95.12, Total de PRs revisados: 160, Total de Issues: 0, Contribuiu para (ano passado): 14</desc>
+        <desc id="descId">Total de estrelas: 0, Total de Commits  : 529, Total de PRs: 205, Total de PRs Integrados: 195, Porcentagem de PRs Integrados: 95.12, Total de PRs revisados: 159, Total de Issues: 0, Contribuiu para (ano passado): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -237,7 +237,7 @@
         x="274.01"
         y="12.5"
         data-testid="reviews"
-      >160</text>
+      >159</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
