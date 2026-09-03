@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Kaw&#227; Lucio, Rank: B</title>
-        <desc id="descId">Total de estrelas: 0, Total de Commits  : 562, Total de PRs: 219, Total de PRs Integrados: 209, Porcentagem de PRs Integrados: 95.43, Total de PRs revisados: 164, Total de Issues: 0, Contribuiu para (ano passado): 14</desc>
+        <desc id="descId">Total de estrelas: 0, Total de Commits  : 570, Total de PRs: 220, Total de PRs Integrados: 211, Porcentagem de PRs Integrados: 95.91, Total de PRs revisados: 165, Total de Issues: 0, Contribuiu para (ano passado): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 151.07066107799167;
+        stroke-dashoffset: 150.87221670734658;
       }
     }
   
@@ -177,7 +177,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >562</text>
+      >570</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs"
-      >219</text>
+      >220</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs_merged"
-      >209</text>
+      >211</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >95.43 %</text>
+      >95.91 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="274.01"
         y="12.5"
         data-testid="reviews"
-      >164</text>
+      >165</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
