@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Kaw&#227; Lucio, Rank: B</title>
-        <desc id="descId">Total de estrelas: 0, Total de Commits  : 610, Total de PRs: 230, Total de PRs Integrados: 221, Porcentagem de PRs Integrados: 96.09, Total de PRs revisados: 174, Total de Issues: 0, Contribuiu para (ano passado): 13</desc>
+        <desc id="descId">Total de estrelas: 0, Total de Commits  : 610, Total de PRs: 231, Total de PRs Integrados: 221, Porcentagem de PRs Integrados: 95.67, Total de PRs revisados: 175, Total de Issues: 0, Contribuiu para (ano passado): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 146.39094646305526;
+        stroke-dashoffset: 146.35527749682245;
       }
     }
   
@@ -199,7 +199,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs"
-      >230</text>
+      >231</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >96.09 %</text>
+      >95.67 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -244,7 +244,7 @@
         x="274.01"
         y="12.5"
         data-testid="reviews"
-      >174</text>
+      >175</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
